@@ -18,3 +18,5 @@ The appearance and use of Netflix is purely for education purposes and is not me
 - [clever programmer tutorial](https://www.youtube.com/watch?v=XtMThy8QKqU&t=10474s)
 - [themoviedb.org documentation](https://developers.themoviedb.org/3/)
 - [Using environment variables in react](https://create-react-app.dev/docs/adding-custom-environment-variables/)
+
+![screen-gif](./netflicks.gif)
