@@ -17,6 +17,6 @@ The appearance and use of Netflix is purely for education purposes and is not me
 - This project is meant for development only and has some fairly large security risks that shouldn't be used in production, for example we should be using a backend service to query the moviedb
 
 # Resources and Credits
-- [clever programmer tutorial](https://www.youtube.com/watch?v=XtMThy8QKqU&t=10474s)
+- [clever programmer tutorial](https://www.youtube.com/watch?v=XtMThy8QKqU&t)
 - [themoviedb.org documentation](https://developers.themoviedb.org/3/)
 - [Using environment variables in react](https://create-react-app.dev/docs/adding-custom-environment-variables/)
