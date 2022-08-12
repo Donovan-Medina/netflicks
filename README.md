@@ -8,7 +8,7 @@ The appearance and use of Netflix is purely for education purposes and is not me
 1. Copy this repo into your local system
 2. Copy the .env.example into a .env file at the root of the project
 3. Head over to [The Movie Database](https://themoviedb.org/settings/api) and apply for an API key
-4. Copy the API Key (v4 auth) into the .env file
+4. Copy the API Key (v3 auth) into the .env file
 5. run `npm install` -- this will install all the node_modules required and create the package-lock.json
 6. run `npm start` -- a browser should open automatically with the react project, if not go to http://localhost:3000
 
